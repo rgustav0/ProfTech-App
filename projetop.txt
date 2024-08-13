@@ -1,0 +1,7 @@
+git clone link repositorio - comando cola o rep no desktop.
+git add . comando adiciona as interações a um estágio a frente. 
+git commit -m "oque foi feito" vai subir oque foi feito até uma pasta invisivel.
+git push vai subir tudo que foi feito na pasta invisivel.
+
+
+ 
